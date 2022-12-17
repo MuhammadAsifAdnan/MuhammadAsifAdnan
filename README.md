@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Asif
+- 😄 Pronouns: He/Him
+- 📫 [Linkedin](https://www.linkedin.com/in/asif-adnan-uiu/)
 
 <!--
 **MuhammadAsifAdnan/MuhammadAsifAdnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
